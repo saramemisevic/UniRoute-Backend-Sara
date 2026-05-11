@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+geoalchemy2
+psycopg2-binary
+pyjwt
+python-multipart
+passlib[bcrypt]    # DÜZELTME: bcrypt şifreleme için gerekli, eksikti
+python-dotenv      # DÜZELTME: .env dosyasını okumak için
